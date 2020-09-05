@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe_JC</string>
+
+    <string name="player_textView">"Player X's Turn"</string>
+    <string name="new_game_text">New Game</string>
+    <string name="Player_O_Text">Player O\'s Turn</string>
+    <string name="Player_X_win">X Wins</string>
+    <string name="Player_O_win">O Wins</string>
+    <string name="draw_text">Draw! Try Again</string>
+</resources>
